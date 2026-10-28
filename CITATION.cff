@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper."
+title: "Cross-Fitted Clustered Conformal Prediction"
+type: article
+authors:
+  - family-names: Liang
+    given-names: Tian
+  - family-names: Fei
+    given-names: Zhe
+year: 2026
+license: MIT
+repository-code: "https://github.com/Tianwxr/CFCCP"
